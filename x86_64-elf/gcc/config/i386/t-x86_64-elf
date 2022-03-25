@@ -1,0 +1,3 @@
+
+MULTILIB_OPTIONS += mno-red-zone
+MULTILIB_DIRNAMES += no-red-zone
